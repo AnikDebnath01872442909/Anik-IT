@@ -1,0 +1,33 @@
+.carosal{
+    height: 500px;
+    width: 100%;
+}
+.about{
+    padding-top:30px;
+}
+.card{
+    padding: 20px 10px 10px 0px;
+    margin-top: 30px;
+    text-align: center;
+}
+.card:hover{
+    box-shadow: 5px 10px 20px 1px;
+
+}
+.img{
+    height: 100px;
+    width: 150px;
+}
+.bar{
+    margin: 10px;
+}
+.p{
+    font-family: 'Yellowtail', cursive;
+    text-shadow: 5px;
+    text-align: center;
+    font-size: 25px;
+}
+.down{
+    padding-bottom: 30px;
+
+}
